@@ -6,5 +6,5 @@ Summer of Code project under the web and coding club of IIT Bombay, getting the 
 -  specified the 5 most decision-affecting Fundamental Ratios.
   
 ### Task 2
-- Created a momentum based portfolio by python
-- Created a class Portfolio which buys and sells the stocks in the protfolio and calculates daily returns 
+- Created a momentum based reshuffling portfolio by python
+- calculated daily returns, cumulative returns, etc to analyse the startegy.
